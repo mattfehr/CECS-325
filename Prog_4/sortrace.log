@@ -1,0 +1,17 @@
+Generating 1000000 random numbers
+Command: ./generate
+Total amount of numbers: 1000000
+Min value: -100000
+Max value: 100000
+Generating 1000000 numbers between -100000 and 100000...
+Complete
+Starting system sort
+
+real	0m0.334s
+user	0m1.254s
+sys	0m0.124s
+Starting mysort
+
+real	1m15.267s
+user	9m38.226s
+sys	0m0.030s
